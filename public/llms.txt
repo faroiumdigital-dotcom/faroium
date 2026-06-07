@@ -1,0 +1,18 @@
+# Faroium Digital
+
+> Faroium Digital builds high-performing websites, AI automations and digital systems designed to help businesses grow smarter and faster.
+
+## Pages
+
+- [Home](/): Websites, AI and systems for business growth.
+- [Services](/services): Website development, AI & automation, design, growth and ongoing support.
+- [Process](/process): Our 7-step workflow from Discover to Launch & Support.
+- [Portfolio](/portfolio): Selected case studies — Drivio, Trills, Snak Bar, Health Fresh, Visakha Multispeciality.
+- [Case Studies](/case-studies): Outcomes from recent engagements.
+- [About](/about): Story, vision and the principles behind the work.
+- [Journal](/blog): Notes on websites, AI, automation and digital strategy.
+- [Contact](/contact): Start a conversation about a project or partnership.
+
+## Optional
+
+- [7 Business Tasks AI Can Fully Automate in 2026](/blog/7-business-tasks-ai-can-fully-automate-in-2026): Featured essay on practical AI automation.
